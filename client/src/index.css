@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0%;
+  box-sizing:content-box;
+  max-width: none;
+  
+}
+
+body{
+  background-color: rgb(215, 192, 244);
+}
